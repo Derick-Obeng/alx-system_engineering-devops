@@ -110,7 +110,7 @@ aj
 
 ```text
 alx-system_engineering-devops/
-├── README.md
+|--0x03-shell_variables_expansions/
 ├── 1-hello_you
 ├── 2-path
 ├── 3-paths
@@ -124,7 +124,9 @@ alx-system_engineering-devops/
 ├── 11-binary_to_decimal
 ├── 12-combinations
 ├── 13-print_float
-└── 0x03-shell_variables_expansions/
+├── README.md
+
+└── 
 ```
 
 ## Key Concepts Covered
@@ -151,12 +153,7 @@ alx-system_engineering-devops/
 - Exponentiation: `$((a ** b))`
 - Base conversion: `$((base#number))`
 
-## Author
 
-### Derick Obeng
-
-- ALX Student
-- System Engineering & DevOps Track
 
 ## Acknowledgments
 
